@@ -38,9 +38,9 @@
             <tr>
                 <td>
         <asp:Label ID="Label5" runat="server" Text="帳號"></asp:Label>  
-        <asp:TextBox ID="account" runat="server" Text="a001"></asp:TextBox>
+        <asp:TextBox ID="account" runat="server" Text=""></asp:TextBox>
          <asp:Label ID="Label6" runat="server" Text="密碼" ></asp:Label>  
-        <asp:TextBox ID="passwd" runat="server" Text="a1234567"></asp:TextBox>
+        <asp:TextBox ID="passwd" runat="server" Text=""></asp:TextBox>
                     </td>
              </tr>
             <tr>
